@@ -1,0 +1,778 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9; IE=10;IE=11;" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta name="keywords" content="Advanced Analytics, Cortana Intelligence, CIS, Machine Learning, Data Science, Azure ML, Cognitive Services" />
+    <meta name="description" content="Certification 70-774 Perform Cloud Data Science with Azure Machine Learning " />
+    <meta property="og:type" content="website" />
+    <meta name="og:title" content="Microsoft Advanced Analytics: Learning Portal | Microsoft" />
+    <meta property="og:description" content="Certification 70-774 Perform Cloud Data Science with Azure Machine Learning " />
+    <meta name="application-name" content="Microsoft Advanced Analytics Learning Portal" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <link rel="shortcut icon" href="//www.microsoft.com/favicon.ico?v2" />
+    <meta name="title" content="Microsoft Advanced Analytics " />
+    <title>Microsoft Advanced Analytics: Perform Cloud Data Science with Azure Machine Learning  </title>
+    <!-- this is a comment -->
+    <link href="https://assets.onestore.ms/cdnfiles/onestorerolling-1606-01000/shell/v3/scss/shell.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="http://learnanalytics.microsoft.com/css/css?v=ew8UGr-78Rd9mmrrZY_hZZxRyDbwHkuc8jccULy0Cqo1" rel="stylesheet" />
+
+
+</head>
+<body>
+    <div id="shell-header" class="shell-header shell-responsive " ms.pgarea="header" role="banner">
+        <div class="shell-header-wrapper">
+            <div class="shell-header-top" data-bi-area="HeaderL0" data-bi-view="L0V1">
+                <div class="shell-header-brand" ms.cmpgrp="logo">
+                    <a id="srv_shellHeaderMicrosoftLogo" href="https://www.microsoft.com" ms.cmpnm="MicrosoftBrandLogo" ms.title="Microsoft"
+                       title="Microsoft" data-bi-name="BrandLogo" tabindex="10">
+                        <img src="https://assets.onestore.ms/cdnfiles/onestorerolling-1606-01000/shell/v3/images/logo/microsoft.png" alt="Microsoft" />
+                    </a>
+                </div>
+
+                <div class="shell-header-actions" ms.cmpgrp="header actions">
+                    <form id="srv_shellHeaderSearchForm" class="shell-search" role="search" action="https://www.microsoft.com/en-us/search/result.aspx"
+                          method="GET" autocomplete="off" onsubmit="return window.msCommonShell.onSearch(this)" ms.cmpnm="search">
+                        <div class="shell-search-wrapper">
+                            <label for="cli_shellHeaderSearchInput" class="sr-only">Search Microsoft</label>
+                            <input id="cli_shellHeaderSearchInput" type="search" title="Search Microsoft.com" name="q" data-bi-dnt="" placeholder="Search Microsoft.com"
+                                   maxlength="200" tabindex="30" />
+                            <input type="hidden" name="form" data-bi-dnt="" value="MSHOME" />
+                            <button type="submit" title="Search" data-bi-dnt="" tabindex="40">
+                                <i class="shell-icon-search"></i>
+                                <span class="sr-only">Search</span>
+                            </button>
+                            <div id="cli_searchSuggestionsContainer" class="shell-search-dropdown-container">
+                                <div class="search-dropdown">
+                                    <div class="dropdown-item">
+                                        <ul id="cli_searchSuggestionsResults" data-bi-name="Search Suggestions" data-bi-source="UnifiedSearch" ms.cmpgrp="search suggestions"></ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="fixed-global-nav-buffer"></div>
+    <div class="shell-category-header cat-theme-gray" ms.pgarea="categoryheader">
+        <div role="navigation" aria-label="Category level navigation" class="shell-category-nav" ms.cmpgrp="cat nav" data-bi-area="CategoryHeader-" data-bi-view="C0">
+            <div class="c-nav-pagination c-nav-pagination-prev" style="display: none;">
+                <i class="shell-icon-dropdown facing-left"></i>
+            </div>
+            <ul class="shell-category-top-level shell-category-brand">
+                <li class="c-logo-item">
+                    <a id="shell-cat-header-logo" class="c-logo c-top-nav-link nav-toggle" href="/home/index" title="Logo" ms.title="" data-bi-name="Category logo" tabindex="70" ms.ea_name="learn">
+                        <span class="cat-class-logo icon-logo"></span>
+                        <img class="cat-logo-png icon-logo" src="/images/logo.png">
+                    </a>
+                    <a id="shell-cat-header-logo-mobile" class="c-logo-mobile c-top-nav-link c-nav-dropdown" href="javascript:void(0);" ms.title="" ms.interactiontype="14" data-bi-name="Mobile category logo" tabindex="70" aria-expanded="true">
+                        <span class="cat-class-logo icon-logo"></span>
+                        <img class="cat-logo-png icon-logo" src="/images/logo.png">
+                        <i class="shell-icon-dropdown"></i>
+                    </a>
+                    <ul class="c-menu-container shell-category-top-level shell-category-nav-wrapper" role="menu">
+                        <li class="c-top-nav-item">
+                            <a class="c-top-nav-link c-nav-link c-nav-dropdown nav-toggle" href="http://learnanalytics.microsoft.com/home/training" role="button">
+                                <span>Training</span>
+                            </a>
+                        </li>
+                        <li class="c-top-nav-item">
+                            <a class="c-top-nav-link c-nav-link c-nav-dropdown nav-toggle" href="http://learnanalytics.microsoft.com/home/certifications" role="button">
+                                <span>Certifications</span>
+                            </a>
+                        </li>
+                        <li class="c-top-nav-item">
+                            <a class="c-top-nav-link c-nav-link c-nav-dropdown nav-toggle" href="http://learnanalytics.microsoft.com/home/trainingpartners" role="button">
+                                <span>Training Partners</span>
+                            </a>
+                        </li>
+
+                    </ul>
+                </li>
+            </ul>
+
+            <div class="c-nav-pagination c-nav-pagination-next" style="display: block;">
+                <i class="shell-icon-dropdown facing-right"></i>
+            </div>
+        </div>
+    </div>
+
+    <section class="container">
+        <div id="page-content" class="full-width">
+
+
+            <div class="hero hero-certifications full-width">
+                <div class="hero-container">
+                    <div class="hero-content hero-content">
+                        <div class="hero-copy">
+                            <h1 class="hero-heading">Certification 70-774</h1>
+                            <div class="hero-desc">Perform Cloud Data Science with Azure Machine Learning </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="certifications-list" class="layout-container layout-space-bottom columns flex-wrap">
+                <section class="certification column col-md-4 col-sm-6 col-xs-12">
+                    <div class="certification-card">
+                        <img class="img-responsive" src="http://learnanalytics.microsoft.com/images/Certifications_01.jpg" alt="">
+                        <h4 class="certification-heading">Perform Cloud Data Science with Azure Machine Learning</h4>
+                        <p class="certification-desc">
+                            What is the official description for this exam?
+                            <h5 class="certification-list-heading">Audience Profile:</h5>
+                            Candidates for this exam are data scientists or analysts who leverage azure cloud services to build and deploy intelligent solutions. Candidates for this exam will have a good understanding of Azure data services and machine learning, familiar with common data science processes such as filtering and transforming data sets, model estimation, and model evaluation.
+                            <br />
+                            Candidates for this exam will have experience in publishing an effective API for knowledge intelligence.
+
+                        </p>
+                        <p class="certification-desc">
+                            <h5 class="certification-list-heading">Preparation Materials:</h5>
+                            <div class="certification-list-heading2">Course Sequence to cover most material on the exam:</div>
+                            <ul>
+                                <li><a target="_blank" href="https://www.edx.org/course/applied-machine-learning-microsoft-dat203-3x-0">Principles of Machine Learning</a></li>
+                                <li><a target="_blank" href="https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-2">Applied Machine Learning</a></li>
+                            </ul>
+                        </p>
+                    </div>
+                </section>
+                <section class="certification column col-md-4 col-sm-6 col-12">
+                    <div class="certification-card">
+                        <img class="img-responsive" src="http://learnanalytics.microsoft.com/images/Certifications_02.jpg" alt="">
+                        <h4 class="certification-heading">Skills Measured</h4>
+                        <p class="certification-desc">
+                            The following list contains the exam objectives and resources to prepare.
+                            <h5 class="certification-list-heading">Objectives:</h5>
+                            <div class="certification-list-heading2">Documentation and Learning Paths:</div>
+                            <ul>
+                                <li><a target="_blank" href="https://gallery.cortanaintelligence.com/Collection/Introduction-to-Machine-Learning-with-Hands-On-Labs-1">Introduction to Azure Machine Learning Collection in the Gallery</a></li>
+                                <li>
+                                    <a target="_blank" href="https://azure.microsoft.com/en-us/documentation/services/cognitive-services/">Cognitive Services Documentation</a>
+
+                                </li>
+                            </ul>
+                            <h5 class="certification-list-heading">
+                                Prepare data to be analyzed in Azure Machine Learning and export from AML
+                            </h5>
+                            <div class="certification-list-heading2">
+                                Import and Export data to Azure Machine Learning <a target="_blank" href="https://www.youtube.com/watch?v=f-oPrgD2rEA&feature=youtube_gdata">[1]</a>
+                            </div>
+                            <ol>
+                                
+                                <li>
+                                    Import and export data from Azure Blob storage
+                                    <a target="_blank" href="https://msdn.microsoft.com/en-us/library/azure/mt674698">[1]</a>
+                                    <a target="_blank" href="https://www.youtube.com/watch?v=QZtSaIQRDG4&feature=youtube_gdata">[2]</a>
+                                </li>
+                                <li>
+                                    Import and export data from Azure SQL
+                                    <a target="_blank" href="https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-create-features-sql-server">[1]</a>
+                                    <a target="_blank" href="https://www.youtube.com/watch?v=QZtSaIQRDG4&feature=youtube_gdata">[2]</a>
+                                </li>
+                                <li>
+                                    Import and export data via Hive Queries
+                                    <a target="_blank" href="https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-move-hive-tables">[1]</a>
+
+                                </li>
+                                <li>
+                                    Import data from a website
+                                    <a target="_blank" href="https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-import-data-from-online-sources">[1]</a>
+                                    <a target="_blank" href="https://msdn.microsoft.com/en-us/library/azure/mt653681">[2]</a>
+                                    <a target="_blank" href="https://www.youtube.com/watch?v=QZtSaIQRDG4&feature=youtube_gdata">[3]</a>
+                                </li>
+                                <li>
+                                    Import from on-premises SQL
+                                    <a target="_blank" href="https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-use-data-from-an-on-premises-sql-server">[1]</a>
+                                </li>
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Explore and summarize data
+                            </div>
+                            <ol>
+                                <li>
+                                    Create univariate summaries
+                                </li>
+                                <li>
+                                    Create multivariate summaries
+                                    NOTE: cover group by statements
+                                </li>
+                                <li>
+                                    Visualize univariate distributions
+                                    <a target="_blank" href="https://www.youtube.com/watch?v=jAlmiDx3voE">[1]</a>
+                                </li>
+                                <li>
+                                    Leverage existing R or Python notebooks for custom summaries
+                                </li>
+                                <li>
+                                    Leverage existing R or Python notebooks for custom visualizations
+                                </li>
+                                <li>
+                                    Leverage zip archives to import external packages for R or Python
+                                    <a target="_blank" href="https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-execute-python-scripts#importing-existing-python-script-modules">[1]</a>
+                                </li>
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Cleanse data for Azure Machine Learning
+                            </div>
+                            <ol>
+                                <li>
+                                    Apply filters to limit a dataset to the desired rows
+                                </li>
+                                <li>
+                                    Identify and address missing data
+                                    <a target="_blank" href="https://azure.microsoft.com/en-us/resources/videos/preprocessing-data-in-azure-ml-studio/">[1]</a>
+                                </li>
+                                <li>
+                                    Identify and address outliers
+                                </li>
+                                <li>
+                                    Remove columns and rows of datasets
+                                    <a target="_blank" href="https://azure.microsoft.com/en-us/resources/videos/preprocessing-data-in-azure-ml-studio/">[1]</a>
+                                </li>
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Transform and perform feature engineering
+                            </div>
+                            <ol>
+                                <li>
+                                    Merge multiple datasets (by rows or columns) into a single dataset by columns
+                                </li>
+                                <li>
+                                    Merge multiple datasets (by rows or columns) into a single dataset by rows
+                                    <a target="_blank" href="https://azure.microsoft.com/en-us/resources/videos/preprocessing-data-in-azure-ml-studio/">[1 (a join on a column shown in this video w/ two datasets)]</a>  
+                                </li>
+                                <li>
+                                    Add columns that are combinations other columns
+                                    <a target="_blank" href="https://azure.microsoft.com/en-us/resources/videos/preprocessing-data-in-azure-ml-studio/">[1 (w/ Apply Math Module – performed calc and appended col, but could also replace inline)]</a> 
+                                </li>
+                                <li>
+                                    Manually select and construct features for model estimation
+                                    <a target="_blank" href="https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-data-science-create-features">[1]</a>
+                                </li>
+                                <li>
+                                    Automatically select and construct features for model estimation
+                                </li>
+                                <li>
+                                    Reduce dimensions of data through Perform Principal Component Analysis
+                                </li>
+                                <li>
+                                    Manage variable metadata
+                                </li>
+                                <li>Select standardized variable based on planned analysis</li>
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Develop machine learning modelsSelect appropriate algorithm or method
+                            </div>
+                            <ol>
+                                <li>
+                                    Select appropriate algorithm for predicting continuous label data
+                                </li>
+                                <li>
+                                    Select appropriate algorithm for supervised vs unsupervised scenarios
+                                </li>
+                                <li>
+                                    Identify when to select R or Python notebooks are appropriate
+                                </li>
+                                <li>
+                                    Identify algorithm for grouping unlabeled data
+                                </li>
+                                <li>
+                                    Identify algorithm for classifying label data
+                                </li>
+                                <li>Select appropriate ensemble</li>
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Initialize and Train Appropriate Models
+                            </div>
+                            <ol>
+                                <li>
+                                    Tune hyperparameters manually
+                                    <a target="_blank" href="https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-parameters-optimize">[1]</a>
+                                </li>
+                                <li>
+                                    Tune hyperparameters automatically
+                                    <a target="_blank" href="https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-parameters-optimize">[1]</a>
+                                    <a target="_blank" href="https://msdn.microsoft.com/library/azure/038d91b6-c2f2-42a1-9215-1f2c20ed1b40/">[2]</a>
+                                </li>
+                                <li>
+                                    Split Data into training and testing datasets, including leveraging routines for cross-validation
+                                </li>
+                                <li>Build ensemble using stacking method</li>
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Validate models
+                            </div>
+
+                            <h5 class="certification-list-heading">
+                                Operationalize and manage Azure Machine Learning services
+                            </h5>
+                            <div class="certification-list-heading2">
+                                Deploy models using Azure ML
+                            </div>
+                            <ol>
+                                <li>
+                                    Publish a model developed inside AML
+                                    <a target="_blank" href="https://channel9.msdn.com/Blogs/Windows-Azure/Deploying-a-predictive-model-as-a-service-part-I-">[1]</a>
+                                </li>
+                                <li>
+                                    Publish an externally developed scoring function using an AML package
+                                </li>
+                                <li>
+                                    web service parameters
+                                </li>
+                                <li>
+                                    Create and publish a recommendation model
+                                </li>
+                                <li>Create and publish a language understanding model</li>
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Manage Azure Machine Learning Projects and workspaces
+                            </div>
+                            <ol>
+                                <li>
+                                    Create projects and experiments
+                                </li>
+                                <li>
+                                    Add assets to a project
+                                </li>
+                                <li>
+                                    Create new workspaces
+                                </li>
+                                <li>
+                                    Invite users to a workspace
+                                </li>
+                                <li>
+                                    Switch between different workspaces
+                                </li>
+                                <li>Create a Jupiter notebook that references an intermediate dataset
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Consume Azure ML models
+                            </div>
+                            <ol>
+                                <li>
+                                    Connect to a published AML web service
+                                </li>
+                                <li>
+                                    Consume a published ML model programmatically using a batch execution service
+                                </li>
+                                <li>
+                                    Consume a published ML model programmatically using a request response service
+                                </li>
+                                <li>
+                                    Interact with a published ML model using Excel
+                                </li>
+                                <li>	Publish models to the marketplace </li>
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Consume exemplar cognitive services APIs
+                            </div>
+                            <ol>
+                                <li>
+                                    Consume Vision APIs to process images
+                                </li>
+                                <li>
+                                    Consume Language APIs to process text
+                                </li>
+                                <li>Consume Knowledge APIs to create recommendations</li>
+                            </ol>
+
+                            <h5 class="certification-list-heading">
+                                Leverage other services for Machine Learning
+                            </h5>
+                            <div class="certification-list-heading2">
+                                Build and use neural networks with CNTK
+                            </div>
+                            <ol>
+                                <li>
+                                    Leverage N-series VMs for GPU acceleration
+                                </li>
+                                <li>
+                                    Build and train a 3-layer feed forward neural network
+                                </li>
+                                <li>	Determine when to implement a neural network</li>
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Leverage existing resources to streamline development
+                            </div>
+                            <ol>
+                                <li>
+                                    Clone template experiments from Cortana Intelligence Gallery
+                                </li>
+                                <li>
+                                    Leverage Cortana Intelligence Quickstart to deploy resources
+                                </li>
+                                <li>	Leverage data science VM for streamlined development </li>
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Leverage HDInsights for data sciences at scale
+                            </div>
+                            <ol>
+                                NOTE: please check with Jeremy; this has the most potential for going too deep; keep high-level
+                                <li>
+                                    appropriate type of HDI cluster
+                                </li>
+                                <li>
+                                    Perform Exploratory Data Analysis by using Spark SQL
+                                </li>
+                                <li>
+                                    Build and use Machine Learning models with Spark on HDI
+                                </li>
+                                <li>
+                                    Build and use Machine Learning using Map-reduce
+                                </li>
+                                <li>Build and use Machine Learning using Microsoft R Server </li>
+                            </ol>
+
+                            <div class="certification-list-heading2">
+                                Leverage SQL Server R Services on Azure for database analytics
+                            </div>
+                            <ol>
+                                <li>
+                                    Deploy a SQL Server 2016 Azure VM
+                                </li>
+                                <li>
+                                    Configure SQL Server to allow execution of R scripts
+                                </li>
+                                <li>Execute R scripts inside T-SQL statements </li>
+                            </ol>
+
+                        </p>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </section>
+
+    <div class="shell-footer" role="contentinfo" ms.pgarea="uhffooter" data-bi-area="Footer" data-bi-view="5xLinks">
+        <div class="shell-footer-wrapper">
+
+            <div class="shell-footer-menugroups" ms.cmpgrp="footer nav">
+                <div class="sfm-group" ms.cmpnm="Industries">
+                    <div class="grp-title">
+                        Industries <i class="shell-icon-dropdown"></i>
+                    </div>
+                    <ul>
+                        <li>
+                            <a href="https://www.microsoft.com/en-us/education/default.aspx" ms.title="Education" data-bi-name="Industries_Education"
+                               data-bi-slot="1" data-bi-source="Compass">
+                                Education
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://enterprise.microsoft.com/en-us/industries/government/#fbid=JuAXHbXOkon" ms.title="Government" data-bi-name="Industries_Government"
+                               data-bi-slot="2" data-bi-source="Compass">
+                                Government
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://enterprise.microsoft.com/en-us/industries/health/#fbid=JuAXHbXOkon" ms.title="Health" data-bi-name="Industries_Health"
+                               data-bi-slot="3" data-bi-source="Compass">
+                                Health
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://enterprise.microsoft.com/en-us/industries/discrete-manufacturing/" ms.title="Discrete Manufacturing" data-bi-name="Industries_DiscreteManufacturing"
+                               data-bi-slot="4" data-bi-source="Compass">
+                                Discrete Manufacturing
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://enterprise.microsoft.com/en-us/industries/hospitality-and-travel/" ms.title="Hospitality and travel" data-bi-name="Industries_HospitalityandTravel"
+                               data-bi-slot="5" data-bi-source="Compass">
+                                Hospitality and travel
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://enterprise.microsoft.com/en-us/industries/retail-and-consumer-goods/" ms.title="Retail and consumer goods"
+                               data-bi-name="Industries_RetailandConsumerGoods" data-bi-slot="6" data-bi-source="Compass">
+                                Retail and consumer goods
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="sfm-group" ms.cmpnm="For Customers">
+                    <div class="grp-title">
+                        For customers <i class="shell-icon-dropdown"></i>
+                    </div>
+                    <ul>
+                        <li>
+                            <a href="https://www.microsoft.com/en-us/business/" ms.title="Small and midsize businesses" data-bi-name="Forcustomers_SmallandMidsizeBusinesses"
+                               data-bi-slot="1" data-bi-source="Compass">
+                                Small and midsize businesses
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://enterprise.microsoft.com/en-us/#fbid=JuAXHbXOkon" ms.title="Enterprise" data-bi-name="Forcustomers_Enterprises"
+                               data-bi-slot="2" data-bi-source="Compass">
+                                Enterprise
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.microsoft.com/en/Envision" ms.title="Envision" data-bi-name="Forcustomers_Envision" data-bi-slot="3"
+                               data-bi-source="Compass">
+                                Envision
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://ignite.microsoft.com/" ms.title="Microsoft Ignite" data-bi-name="Forcustomers_Ignite" data-bi-slot="4" data-bi-source="Compass">
+                                Microsoft Ignite
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://go.microsoft.com/fwlink/?LinkID=808093" ms.title="Microsoft AppSource" data-bi-name="Forcustomers_MicrosoftAppSource"
+                               data-bi-slot="5" data-bi-source="Compass">
+                                Microsoft AppSource
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="sfm-group" ms.cmpnm="ForPartners">
+                    <div class="grp-title">
+                        For partners <i class="shell-icon-dropdown"></i>
+                    </div>
+                    <ul>
+                        <li>
+                            <a href="https://partner.microsoft.com/en-US/" ms.title="Microsoft partner resources" data-bi-name="ForPartners_MicrosoftPartnerResources"
+                               data-bi-slot="1" data-bi-source="Compass">
+                                Microsoft partner resources
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://pinpoint.microsoft.com/en-US/" ms.title="Pinpoint" data-bi-name="ForPartners_FindaSolutionProvider" data-bi-slot="2"
+                               data-bi-source="Compass">
+                                Pinpoint
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://azure.microsoft.com/en-us/community/partners/grow-your-business/" ms.title="Partner with Microsoft Azure "
+                               data-bi-name="ForPartners_PartnerwithMicrosoftAzure" data-bi-slot="3" data-bi-source="Compass">
+                                Partner with Microsoft Azure
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://partner.microsoft.com/en-us/wpc" ms.title="Microsoft Worldwide Partner Conference" data-bi-name="ForPartners_MicrosoftWorldwidePartnerConference"
+                               data-bi-slot="4" data-bi-source="Compass">
+                                Microsoft Worldwide Partner Conference
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="sfm-group" ms.cmpnm="ForDevelopers">
+                    <div class="grp-title">
+                        For developers <i class="shell-icon-dropdown"></i>
+                    </div>
+                    <ul>
+                        <li>
+                            <a href="https://azure.microsoft.com/en-us/" ms.title="Microsoft Azure " data-bi-name="ForDevelopers_MicrosoftAzure" data-bi-slot="1"
+                               data-bi-source="Compass">
+                                Microsoft Azure
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.visualstudio.com/" ms.title="Microsoft Visual Studio" data-bi-name="ForDevelopers_MicrosoftVisualStudio"
+                               data-bi-slot="2" data-bi-source="Compass">
+                                Microsoft Visual Studio
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://msdn.microsoft.com/en-us" ms.title="Microsoft Developer Network " data-bi-name="ForDevelopers_MicrosoftDeveloperNetwork"
+                               data-bi-slot="3" data-bi-source="Compass">
+                                Microsoft Developer Network
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://technet.microsoft.com/en-us" ms.title="TechNet " data-bi-name="ForDevelopers_TechNet " data-bi-slot="4"
+                               data-bi-source="Compass">
+                                TechNet
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.microsoft.com/en-us/server-cloud/default.aspx" ms.title="Application Development" data-bi-name="ForDevelopers_ApplicationDevelopment"
+                               data-bi-slot="5" data-bi-source="Compass">
+                                Application Development
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="sfm-group" ms.cmpnm="Values">
+                    <div class="grp-title">
+                        Values <i class="shell-icon-dropdown"></i>
+                    </div>
+                    <ul>
+                        <li>
+                            <a href="https://www.microsoft.com/en-us/diversity/" ms.title="Diversity and inclusion" data-bi-name="Values_DiversityandInclusion"
+                               data-bi-slot="1" data-bi-source="Compass">
+                                Diversity and inclusion
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.microsoft.com/en-us/accessibility/home" ms.title="Accessibility" data-bi-name="Values_Accessility" data-bi-slot="2"
+                               data-bi-source="Compass">
+                                Accessibility
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.microsoft.com/environment/" ms.title="Environment" data-bi-name="Values_Environment" data-bi-slot="3"
+                               data-bi-source="Compass">
+                                Environment
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.microsoft.com/about/philanthropies" ms.title="Microsoft Philanthropies" data-bi-name="Values_CorporateCitizenship"
+                               data-bi-slot="4" data-bi-source="Compass">
+                                Microsoft Philanthropies
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.microsoft.com/about/csr" ms.title="Corporate Social Responsibility" data-bi-name="Values_CorporateSocialResponsibility"
+                               data-bi-slot="5" data-bi-source="Compass">
+                                Corporate Social Responsibility
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://privacy.microsoft.com/en-us" ms.title="Privacy at Microsoft" data-bi-name="Values_PrivacyatMicrosoft" data-bi-slot="6"
+                               data-bi-source="Compass">
+                                Privacy at Microsoft
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="sfm-group" ms.cmpnm="Company">
+                    <div class="grp-title">
+                        Company <i class="shell-icon-dropdown"></i>
+                    </div>
+                    <ul>
+                        <li>
+                            <a href="https://careers.microsoft.com/" ms.title="Careers" data-bi-name="Company_Careers" data-bi-slot="1" data-bi-source="Compass">
+                                Careers
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.microsoft.com/en-us/about" ms.title="About Microsoft" data-bi-name="Company_AboutMicrosoft" data-bi-slot="2"
+                               data-bi-source="Compass">
+                                About Microsoft
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://news.microsoft.com/" ms.title="Company news" data-bi-name="Company_CompanyNews" data-bi-slot="3" data-bi-source="Compass">
+                                Company news
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.microsoft.com/investor/default.aspx" ms.title="Investors" data-bi-name="Company_Investors" data-bi-slot="4"
+                               data-bi-source="Compass">
+                                Investors
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://microsoft.com/research" ms.title="Research" data-bi-name="Company_Research" data-bi-slot="5" data-bi-source="Compass">
+                                Research
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.microsoft.com/en-us/sitemap.aspx" ms.title="Site map" data-bi-name="Company_SiteMap" data-bi-slot="6"
+                               data-bi-source="Compass">
+                                Site map
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="shell-footer-lang" ms.cmpgrp="loc picker" ms.cmpnm="loc picker">
+                <ul>
+                    <li>
+                        <i class="shell-icon-globe"></i>
+                    </li>
+                    <li>
+                        <a id="locale-picker-link" ms.title="English (United States)" href="http://www.microsoft.com/en-us/locale.aspx" data-bi-name="LocalePicker">
+                            English (United States)&lrm;
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="shell-footer-copyright" ms.cmpgrp="corp links" ms.cmpnm="corp">
+                <ul>
+                    <li>
+                        <a id="shellmenu_41" href="http://go.microsoft.com/?linkid=2028325" ms.title="Contact us" class="ctl_footerNavLink" data-bi-name="Footer_ContactUs"
+                           data-bi-slot="1">
+                            Contact us
+                        </a>
+                    </li>
+                    <li>
+                        <a id="shellmenu_42" href="https://go.microsoft.com/fwlink/?LinkId=521839" ms.title="Privacy &amp; cookies " class="ctl_footerNavLink"
+                           data-bi-name="Footer_PrivacyandCookies" data-bi-slot="2">
+                            Privacy &amp; cookies
+                        </a>
+                    </li>
+                    <li>
+                        <a id="shellmenu_43" href="http://go.microsoft.com/fwlink/?LinkID=206977" ms.title="Terms of use" class="ctl_footerNavLink"
+                           data-bi-name="Footer_TermsOfUse" data-bi-slot="3">
+                            Terms of use
+                        </a>
+                    </li>
+                    <li>
+                        <a id="shellmenu_44" href="https://www.microsoft.com/trademarks" ms.title="Trademarks" class="ctl_footerNavLink" data-bi-name="Footer_Trademarks"
+                           data-bi-slot="4">
+                            Trademarks
+                        </a>
+                    </li>
+                    <li>
+                        <a id="shellmenu_45" href="http://choice.microsoft.com" ms.title="About our ads" class="ctl_footerNavLink" data-bi-name="Footer_AboutourAds"
+                           data-bi-slot="5">
+                            About our ads
+                        </a>
+                    </li>
+
+                    <li class="ctl_footerCopyright">
+                        &copy; 2016 Microsoft
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <script type="text/javascript">
+        var appInsights = window.appInsights || function (config) {
+            function r(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, u = document, e = window, o = "script", s = u.createElement(o), i, f; for (s.src = config.url || "//az416426.vo.msecnd.net/scripts/a/ai.0.js", u.getElementsByTagName(o)[0].parentNode.appendChild(s), t.cookie = u.cookie, t.queue = [], i = ["Event", "Exception", "Metric", "PageView", "Trace", "Ajax"]; i.length;) r("track" + i.pop()); return r("setAuthenticatedUserContext"), r("clearAuthenticatedUserContext"), config.disableExceptionTracking || (i = "onerror", r("_" + i), f = e[i], e[i] = function (config, r, u, e, o) { var s = f && f(config, r, u, e, o); return s !== !0 && t["_" + i](config, r, u, e, o), s }), t
+        }({
+            instrumentationKey: "57a96fd9-0d0c-4501-b5b1-40707242cba9"
+        });
+
+        window.appInsights = appInsights;
+        appInsights.trackPageView();
+    </script>
+
+    <script async defer src="https://assets.onestore.ms/cdnfiles/onestorerolling-1606-01000/shell/generated/shellservice.v3.min.js"></script>
+    <script async defer src="https://www.microsoft.com/uniblends/scripts/blender.js"></script>
+
+</body>
+
+</html>
