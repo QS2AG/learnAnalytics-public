@@ -44,9 +44,11 @@ If you have other questions or feedback about Microsoft Certification exams or a
 
   - [Sort data](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-data-transform) in various orders, such as ascending and descending; use  `rxSort ` deduplication to [remove duplicate values](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-data-transform); merge data sources using [`rxMerge`](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-data-transform) and its merge options and types; identify when alternatives to `rxSort` and `rxMerge` should be used
 
-- Process text using RML packages
+- Process text using 
+
+packages
   
-  - Create features using RML functions, such as [`featurizeText`](https://github.com/Azure/mr4ds/blob/master/Student-Resources/rmarkdown/6-MML-for-NLP.rmd);  create indicator variables and arrays using RML functions, such as `categorical` and `categoricalHash`; perform feature selection using RML functions
+  - Create features using MicrosoftML functions, such as [`featurizeText`](https://github.com/Azure/mr4ds/blob/master/Student-Resources/rmarkdown/6-MML-for-NLP.rmd);  create indicator variables and arrays using MicrosoftML functions, such as `categorical` and `categoricalHash`; perform feature selection using MicrosoftML functions
 
 ### [Build predictive models with `RevoScaleR`](https://www.microsoft.com/en-us/learning/exam-70-773.aspx#syllabus-3)
 
@@ -65,7 +67,7 @@ If you have other questions or feedback about Microsoft Certification exams or a
   
   - [Summarize estimated models](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-linear-model); run arbitrary code out of process, such as parallel parameter tuning by using [`rxExec`](https://msdn.microsoft.com/en-us/microsoft-r/scaler-distributed-computing); [evaluate tree models by using `RevoTreeView` and `rxVarImpPlot`](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-decision-tree); [calculate model evaluation metrics](https://msdn.microsoft.com/en-us/microsoft-r/scaler-user-guide-logistic-regression) by using built-in functions; calculate model [evaluation metrics and visualizations by using custom code](https://smott.gitbooks.io/introduction-to-microsoft-r-server/content/32g-judging-predictive-performance.html), such as mean absolute percentage error and precision recall curves
 
-- Create additional models using RML packages
+- Create additional models using MicrosoftML packages
   
   - Build and use a One-Class Support Vector Machine, build and use [linear and logistic regressions that use L1 and L2 regularization](https://github.com/Azure/mr4ds/blob/master/Student-Resources/rmarkdown/6-MML-for-NLP.rmd), build and use [a decision tree by using `FastTree`](https://github.com/Azure/mr4ds/blob/master/Student-Resources/rmarkdown/6-MML-for-NLP.rmd), use `FastTree` as a recommender with ranking loss (NDCG), build and use a simple three-layer feed-forward [neural network](https://github.com/Azure/mr4ds/blob/master/Student-Resources/rmarkdown/6-MML-for-NLP.rmd)
 
