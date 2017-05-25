@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Abstract
+# learnAnalytics Materials
 
 This site is a map of data science learning content produced by and curated by the learnAnalytics team at Microsoft. The goal is to provide
 a single place where you can go to navigate the materials that we develop. In order to facilitate this, we have broken the 
