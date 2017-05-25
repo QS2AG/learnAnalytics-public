@@ -31,15 +31,29 @@ In order to help prepare for some of those exams, we have prepared the following
 
 ## Microsoft R and SQL Server ML Services
 
+If you want to learn more about Microsoft R Server and/or SQL Server ML Services, here are a list of additional resources:
+
+An introduction to open source R is available [here](https://notebooks.azure.com/jreynolds/libraries/intro_r).
+
+- [R for Business Analysts](https://github.com/Azure/LearnAnalytics-RforBusinessAnalysts)
+- [Analyzing Big Data with Microsoft R Server](https://github.com/Azure/LearnAnalytics-AnalyzingBigDataWithMRS)
+- [Introduction to SQL Server R Services](https://github.com/Azure/LearnAnalytics-SQLServerRServices)
+- [Microsoft R for SQL Architects](https://github.com/Azure/LearnAnalytics-MicrosoftRforArchitects)
+- [Microsoft R for T-SQL Professionals](https://github.com/Azure/LearnAnalytics-MicrosoftRforSQLServerProfessional)
+- [Microsoft R for Data Science](https://azure.github.io/LearnAnalytics-mr4ds/)
+- [Microsoft R Server with Spark on HDInsights](https://github.com/Azure/LearnAnalytics-mrs-spark)
+- [Microsoft R Server for Data Science (with Spark)](https://github.com/Azure/LearnAnalytics-mr4ds-spark)
+
 ## Cortana Intelligence Suite
 
+If you want to learn more about other tools, please see:
 
-
-## Updated list
-
-- [MRS Essentials](https://github.com/Azure/MRS_Essentials): Essentials of Microsoft R in notebook format. Requires a Microsoft R interpreter and a functioning Jupyter install to run.
-
-- [Microsoft R for Data Scientists](https://github.com/Azure/mr4ds): Course materials for leveraging Microsoft R as a data scientist. Provides a brief introduction to open source R, and works up through leveraging Microsoft R Server on an HDInsight cluster with Spark.
+- [Cortana Intelligence Suite: Foundations](https://github.com/Azure/LearnAnalytics-CISFoundations)
+- [Developing and Deploying Intelligent Chat Bots Course](https://github.com/Azure/bot-education)
+- [HDInsight for The Hadoop Hero: Administering, Configuring and Securing HDInsight Clusters](https://github.com/Azure/learnAnalytics-HDI-Hero)
+- [Azure SQL Data Warehouse](https://github.com/Azure/LearnAnalytics-sqldwintro-instructorled)
+- [Spark with HDInsight - Enterprise Ready Machine Learning and Interactive Data Analysis at Scale](https://github.com/Azure/learnAnalytics-SparkML)
+- [Predictive Analytics for IoT](https://github.com/Azure/LearnAnalytics-PredictiveAnalyticsForIoT)
 
 *Disclaimer*
 
