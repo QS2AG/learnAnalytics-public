@@ -1,5 +1,8 @@
+---
+layout: default
+---
 
-# Skills measured
+# Skills measured in Exam 70-773: [Analyzing Big Data with Microsoft R Server](https://www.microsoft.com/en-us/learning/exam-70-773.aspx)
 
 This exam measures your ability to accomplish the technical tasks listed below. You can watch video tutorials about the [variety of question types](https://www.microsoft.com/en-us/learning/certification-exams.aspx?types=true) on Microsoft exams. The majority of the resources we point to here are in one of the following locations:
 

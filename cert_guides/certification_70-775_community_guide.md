@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Perform Data Engineering on Microsoft Azure HDInsight Community Guide
 
 ## Administer and Provision HDInsight Clusters
