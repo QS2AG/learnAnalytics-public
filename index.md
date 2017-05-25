@@ -16,7 +16,7 @@ text into several sections:
 ## Certification
 
 If you are an aspirant learning to gain skills around data science or big data, you can get more information from
-our professional programs on [data science](https://academy.microsoft.com/en-us/professional-program/data-science/),
+our professional program on [data science](https://academy.microsoft.com/en-us/professional-program/data-science/),
 powered by courses on [EdX.org](https://www.edx.org/course/?search_query=Microsoft&subject=Data%20Analysis%20%26%20Statistics).
 
 If you are a professional looking for more information on how you can demonstrate your expertise, 
