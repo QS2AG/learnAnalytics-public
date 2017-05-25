@@ -1,0 +1,8 @@
+title: learnAnalytics Materials Map
+description: Learning materials for data science.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
