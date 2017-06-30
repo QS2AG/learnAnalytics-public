@@ -8,9 +8,19 @@ This site is a map of data science learning content produced by and curated by t
 a single place where you can go to navigate the materials that we develop. In order to facilitate this, we have broken the 
 text into several sections:
 
-- *Microsoft R and SQL Server ML Services*: Provides links to materials that are most relevant to Microsoft R and SQL Server ML Services
 - *Cortana Intelligence Suite (CIS)*: Provides links to materials relevant to other products, with a focus on CIS.
+- *Microsoft R and SQL Server ML Services*: Provides links to materials that are most relevant to Microsoft R and SQL Server ML Services
 - *Certification*: Provides links to materials that are relevant for preparing for certification exams.
+
+## Cortana Intelligence Suite
+
+If you want to learn more about other tools, please see:
+
+- [Cortana Intelligence Suite: Foundations](https://github.com/Azure/LearnAnalytics-CISFoundations)
+- [Developing and Deploying Intelligent Chat Bots Course](https://github.com/Azure/bot-education)
+- [HDInsight for The Hadoop Hero: Administering, Configuring and Securing HDInsight Clusters](https://github.com/Azure/learnAnalytics-HDI-Hero)
+- [Azure SQL Data Warehouse](https://github.com/Azure/LearnAnalytics-sqldwintro-instructorled)
+- [Spark with HDInsight - Enterprise Ready Machine Learning and Interactive Data Analysis at Scale](https://github.com/Azure/learnAnalytics-SparkML)
 
 ## Microsoft R and SQL Server ML Services
 
@@ -26,16 +36,6 @@ An introduction to open source R is available [here](https://notebooks.azure.com
 - [Microsoft R for Data Science](https://azure.github.io/LearnAnalytics-mr4ds/)
 - [Microsoft R Server with Spark on HDInsights](https://github.com/Azure/LearnAnalytics-mrs-spark)
 - [Microsoft R Server for Data Science (with Spark)](https://github.com/Azure/LearnAnalytics-mr4ds-spark)
-
-## Cortana Intelligence Suite
-
-If you want to learn more about other tools, please see:
-
-- [Cortana Intelligence Suite: Foundations](https://github.com/Azure/LearnAnalytics-CISFoundations)
-- [Developing and Deploying Intelligent Chat Bots Course](https://github.com/Azure/bot-education)
-- [HDInsight for The Hadoop Hero: Administering, Configuring and Securing HDInsight Clusters](https://github.com/Azure/learnAnalytics-HDI-Hero)
-- [Azure SQL Data Warehouse](https://github.com/Azure/LearnAnalytics-sqldwintro-instructorled)
-- [Spark with HDInsight - Enterprise Ready Machine Learning and Interactive Data Analysis at Scale](https://github.com/Azure/learnAnalytics-SparkML)
 
 ## Certification
 
