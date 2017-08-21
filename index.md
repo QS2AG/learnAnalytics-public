@@ -21,6 +21,9 @@ If you want to learn more about other tools, please see:
 - [HDInsight for The Hadoop Hero: Administering, Configuring and Securing HDInsight Clusters](https://github.com/Azure/learnAnalytics-HDI-Hero)
 - [Azure SQL Data Warehouse](https://github.com/Azure/LearnAnalytics-sqldwintro-instructorled)
 - [Spark with HDInsight - Enterprise Ready Machine Learning and Interactive Data Analysis at Scale](https://github.com/Azure/learnAnalytics-SparkML)
+- [Building Solutions with the Cortana Intelligence Suite](https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite)
+-[Using Azure Data Lake Analytics and Azure Data Lake Store in Advanced Analytics Projects](https://github.com/Azure/LearnAnalytics-UsingADLAandADLSinAdvancedAnalyticsProjects)
+-[Doing Machine Learning with Azure ML Studio](https://github.com/Azure/LearnAnalytics-DoingMachineLearningwithAzureMLStudio)
 
 ## Microsoft R and SQL Server ML Services
 
