@@ -1,0 +1,3 @@
+[submodule "LearnAnalytics-AnalyzingBigDataWithMRS"]
+	path = LearnAnalytics-AnalyzingBigDataWithMRS
+	url = https://github.com/Azure/LearnAnalytics-AnalyzingBigDataWithMRS.git
