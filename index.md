@@ -8,7 +8,7 @@ This site is a map of data science learning content produced by and curated by t
 a single place where you can go to navigate the materials that we develop. In order to facilitate this, we have broken the 
 text into several sections:
 
-- *Microsoft Business Analytics and AI (BA+AI)*: Provides links to materials relevant to a variety of products associated business and analytics and AI.
+- *Microsoft Business Analytics and AI (BA+AI)*: Provides links to materials relevant to a variety of products associated Business Analytics and AI (BA+AI).
 - *Microsoft R and SQL Server ML Services*: Provides links to materials that are most relevant to Microsoft R and SQL Server ML Services
 - *Certification*: Provides links to materials that are relevant for preparing for certification exams.
 
