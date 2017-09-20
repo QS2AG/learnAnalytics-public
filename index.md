@@ -8,20 +8,19 @@ This site is a map of data science learning content produced by and curated by t
 a single place where you can go to navigate the materials that we develop. In order to facilitate this, we have broken the 
 text into several sections:
 
-- *Cortana Intelligence Suite (CIS)*: Provides links to materials relevant to other products, with a focus on CIS.
+- *Microsoft Business Analytics and AI (BA+AI)*: Provides links to materials relevant to a variety of products associated business and analytics and AI.
 - *Microsoft R and SQL Server ML Services*: Provides links to materials that are most relevant to Microsoft R and SQL Server ML Services
 - *Certification*: Provides links to materials that are relevant for preparing for certification exams.
 
-## Cortana Intelligence Suite
+## Microsoft Business Analytics and AI
 
 If you want to learn more about other tools, please see:
 
-- [Cortana Intelligence Suite: Foundations](https://github.com/Azure/LearnAnalytics-CISFoundations)
-- [Developing and Deploying Intelligent Chat Bots Course](https://github.com/Azure/bot-education)
+- [Building Solutions with Microsoft Business Analytics and AI](https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite)
+- [Developing and Deploying Intelligent Chat Bots](https://github.com/Azure/bot-education)
 - [HDInsight for The Hadoop Hero: Administering, Configuring and Securing HDInsight Clusters](https://github.com/Azure/learnAnalytics-HDI-Hero)
 - [Azure SQL Data Warehouse](https://github.com/Azure/LearnAnalytics-sqldwintro-instructorled)
 - [Spark with HDInsight - Enterprise Ready Machine Learning and Interactive Data Analysis at Scale](https://github.com/Azure/learnAnalytics-SparkML)
-- [Building Solutions with the Cortana Intelligence Suite](https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite)
 - [Using Azure Data Lake Analytics and Azure Data Lake Store in Advanced Analytics Projects](https://github.com/Azure/LearnAnalytics-UsingADLAandADLSinAdvancedAnalyticsProjects)
 - [Doing Machine Learning with Azure ML Studio](https://github.com/Azure/LearnAnalytics-DoingMachineLearningwithAzureMLStudio)
 
