@@ -34,7 +34,6 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 [probootcamp]: https://aka.ms/learnai-proaidevbootcamp
 [ai-lp-home]: https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/
 [ai-lp-gettingstarted]: https://learnanalytics.microsoft.com/learningpaths/developing-ai-applications-getting-started
-[ai-lp-nlp]: 
-https://learnanalytics.microsoft.com/learningpaths/developing-custom-ai-applications
+[ai-lp-nlp]: https://learnanalytics.microsoft.com/learningpaths/developing-custom-ai-applications
 [ai-lp-deeplearning]: https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications
 [older_learnai_materials]: learnanalytics_materials.md
