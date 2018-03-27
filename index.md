@@ -13,6 +13,9 @@ We have recently created two two-day bootcamps focused on different types of app
 
 - [Bootcamp: Developing applications using Cognitive Services, Azure Bot Services, and Azure Search][emergingbootcamp]
 - [Bootcamp: Developing and Operationalizing Models using Azure Machine Learning][probootcamp]
+- [Advanced Features for Microsoft BotFramework][advancedbot]
+- [Building Computer Vision Application Leveraging Custom Vision Service][buildingcomputervision]
+- [Using Azure Machine Learning for AIWorkloads][amlforai]
 
 # AI learning paths
 
@@ -32,6 +35,9 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 [emergingbootcamp]: https://aka.ms/learnai-emergingaidevbootcamp
 [probootcamp]: https://aka.ms/learnai-proaidevbootcamp
+[advancedbot]: https://github.com/Azure/learnAnalytics-AdvancedFeaturesforMicrosoftBotFramework
+[buildingcomputervision]: https://github.com/Azure/learnAnalytics-Buildingacomputervisionapplicationusingcustomvisionservice
+[amlforai]: https://github.com/Azure/learnAnalytics-UsingAzureMachineLearningforAIWorkloads
 [ai-lp-home]: https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/
 [ai-lp-gettingstarted]: https://learnanalytics.microsoft.com/learningpaths/developing-ai-applications-getting-started
 [ai-lp-nlp]: https://learnanalytics.microsoft.com/learningpaths/developing-custom-ai-applications
