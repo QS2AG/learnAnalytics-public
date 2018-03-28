@@ -7,15 +7,13 @@ layout: default
 This site is a map of learning content produced by and curated by the LearnAI team in Microsoft Engineering. We are currently focused on building out materials to help developers build AI-oriented applications on Azure. The goal of this page is to provide
 a single place where you can go to navigate the materials that we develop. 
 
-# AI bootcamps
-
-We have recently created two two-day bootcamps focused on different types of applications:
+# AI-oriented materials
 
 - [Bootcamp: Developing applications using Cognitive Services, Azure Bot Services, and Azure Search][emergingbootcamp]
 - [Bootcamp: Developing and Operationalizing Models using Azure Machine Learning][probootcamp]
-- [Advanced Features for Microsoft BotFramework][advancedbot]
+- [Logging and Testing with Azure Bot Service][advancedbot]
 - [Building Computer Vision Application Leveraging Custom Vision Service][buildingcomputervision]
-- [Using Azure Machine Learning for AIWorkloads][amlforai]
+- [Using Azure Machine Learning for AI Workloads][amlforai]
 
 # AI learning paths
 
@@ -35,9 +33,9 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 [emergingbootcamp]: https://aka.ms/learnai-emergingaidevbootcamp
 [probootcamp]: https://aka.ms/learnai-proaidevbootcamp
-[advancedbot]: https://github.com/Azure/learnAnalytics-AdvancedFeaturesforMicrosoftBotFramework
-[buildingcomputervision]: https://github.com/Azure/learnAnalytics-Buildingacomputervisionapplicationusingcustomvisionservice
-[amlforai]: https://github.com/Azure/learnAnalytics-UsingAzureMachineLearningforAIWorkloads
+[advancedbot]: https://azure.github.io/learnAnalytics-AdvancedFeaturesforMicrosoftBotFramework
+[buildingcomputervision]: https://azure.github.io/learnAnalytics-Buildingacomputervisionapplicationusingcustomvisionservice
+[amlforai]: https://azure.github.io/learnAnalytics-UsingAzureMachineLearningforAIWorkloads
 [ai-lp-home]: https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/
 [ai-lp-gettingstarted]: https://learnanalytics.microsoft.com/learningpaths/developing-ai-applications-getting-started
 [ai-lp-nlp]: https://learnanalytics.microsoft.com/learningpaths/developing-custom-ai-applications
