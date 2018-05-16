@@ -14,6 +14,11 @@ a single place where you can go to navigate the materials that we develop.
 - [Logging and Testing with Azure Bot Service][advancedbot]
 - [Building Computer Vision Application Leveraging Custom Vision Service][buildingcomputervision]
 - [Using Azure Machine Learning for AI Workloads][amlforai]
+- [Artificial Intelligence on IaaS++][aioniaas]
+- [Building Custom Computer Vision with Azure Machine Learning][customcomputervisionwithaml]
+- [Building Custom Text Analytics solutions using Azure Machine Learning][customtextanalyticswithaml]
+- [Building Custom Forecasting Applications using Azure Machine Learning][customtimeseriesforcastingwithaml]
+- [Designing and Architecting Intelligent Agents][designingandarchitectingintelligentagents]
 
 # AI learning paths
 
@@ -36,6 +41,11 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 [advancedbot]: https://azure.github.io/learnAnalytics-AdvancedFeaturesforMicrosoftBotFramework
 [buildingcomputervision]: https://azure.github.io/learnAnalytics-Buildingacomputervisionapplicationusingcustomvisionservice
 [amlforai]: https://azure.github.io/learnAnalytics-UsingAzureMachineLearningforAIWorkloads
+[customcomputervisionwithaml]: https://github.com/Azure/LearnAI-CustomComputerVisionwithAML
+[customtextanalyticswithaml]: https://github.com/Azure/LearnAI-CustomTextAnalyticsWithAML
+[customtimeseriesforcastingwithaml]: https://github.com/Azure/LearnAI-CustomTimeSeriesForecastingWithAML
+[designingandarchitectingintelligentagents]: https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents
+[aioniaas]: https://github.com/Azure/LearnAI-AIonIaaS
 [ai-lp-home]: https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/
 [ai-lp-gettingstarted]: https://learnanalytics.microsoft.com/learningpaths/developing-ai-applications-getting-started
 [ai-lp-nlp]: https://learnanalytics.microsoft.com/learningpaths/developing-custom-ai-applications
