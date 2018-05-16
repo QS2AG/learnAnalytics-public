@@ -41,11 +41,11 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 [advancedbot]: https://azure.github.io/learnAnalytics-AdvancedFeaturesforMicrosoftBotFramework
 [buildingcomputervision]: https://azure.github.io/learnAnalytics-Buildingacomputervisionapplicationusingcustomvisionservice
 [amlforai]: https://azure.github.io/learnAnalytics-UsingAzureMachineLearningforAIWorkloads
-[customcomputervisionwithaml]: https://github.com/Azure/LearnAI-CustomComputerVisionwithAML
-[customtextanalyticswithaml]: https://github.com/Azure/LearnAI-CustomTextAnalyticsWithAML
-[customtimeseriesforcastingwithaml]: https://github.com/Azure/LearnAI-CustomTimeSeriesForecastingWithAML
-[designingandarchitectingintelligentagents]: https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents
-[aioniaas]: https://github.com/Azure/LearnAI-AIonIaaS
+[customcomputervisionwithaml]: https://azure.github.io/LearnAI-CustomComputerVisionwithAML/
+[customtextanalyticswithaml]: https://azure.github.io/LearnAI-CustomTextAnalyticsWithAML/
+[customtimeseriesforcastingwithaml]: https://azure.github.io/LearnAI-CustomTimeSeriesForecastingWithAML/
+[designingandarchitectingintelligentagents]: https://azure.github.io/LearnAI-DesigningandArchitectingIntelligentAgents/
+[aioniaas]: https://azure.github.io/LearnAI-AIonIaaS/
 [ai-lp-home]: https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/
 [ai-lp-gettingstarted]: https://learnanalytics.microsoft.com/learningpaths/developing-ai-applications-getting-started
 [ai-lp-nlp]: https://learnanalytics.microsoft.com/learningpaths/developing-custom-ai-applications
