@@ -19,6 +19,8 @@ a single place where you can go to navigate the materials that we develop.
 - [Building Custom Text Analytics solutions using Azure Machine Learning][customtextanalyticswithaml]
 - [Building Custom Forecasting Applications using Azure Machine Learning][customtimeseriesforcastingwithaml]
 - [Designing and Architecting Intelligent Agents][designingandarchitectingintelligentagents]
+- [Building an Enterprise Cognitive Search Solution][buildinganenterprisecognitivesearchsolution]
+
 
 # AI learning paths
 
@@ -46,6 +48,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 [customtimeseriesforcastingwithaml]: https://azure.github.io/LearnAI-CustomTimeSeriesForecastingWithAML/
 [designingandarchitectingintelligentagents]: https://azure.github.io/LearnAI-DesigningandArchitectingIntelligentAgents/
 [aioniaas]: https://azure.github.io/LearnAI-AIonIaaS/
+[buildinganenterprisecognitivesearchsolution]: https://azure.github.io/LearnAI-Cognitive-Search/
 [ai-lp-home]: https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/
 [ai-lp-gettingstarted]: https://learnanalytics.microsoft.com/learningpaths/developing-ai-applications-getting-started
 [ai-lp-nlp]: https://learnanalytics.microsoft.com/learningpaths/developing-custom-ai-applications
