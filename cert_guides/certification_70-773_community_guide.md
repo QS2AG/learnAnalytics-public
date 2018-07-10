@@ -7,6 +7,7 @@ layout: default
 This exam measures your ability to accomplish the technical tasks listed below. You can watch video tutorials about the [variety of question types](https://www.microsoft.com/en-us/learning/certification-exams.aspx?types=true) on Microsoft exams. The majority of the resources we point to here are in one of the following locations:
 
  - [Microsoft R on MSDN](https://msdn.microsoft.com/en-us/microsoft-r) 
+ - [Microsoft R for Data Science Workshop](https://azure.github.io/LearnAnalytics-mr4ds/)
  - [Analyzing big data with Microsoft R (edX)](https://www.edx.org/course/analyzing-big-data-microsoft-r-server-microsoft-dat213x)
  - [Analyzing Big Data with Microsoft R](https://jonsan21.gitbooks.io/analyzing-big-data-with-microsoft-r/content/)
  - [Scalable Machine Learning and Data Science with Microsoft R Server and Spark](https://bookdown.org/alizaidi/mrs-spark-ml/).
