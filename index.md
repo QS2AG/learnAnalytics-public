@@ -31,15 +31,9 @@ If you're looking for earlier materials focused on data science, Business Analyt
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 [emergingbootcamp]: https://aka.ms/learnai-emergingaidevbootcamp
-[probootcamp]: https://aka.ms/learnai-proaidevbootcamp
 [advancedbot]: https://azure.github.io/learnAnalytics-AdvancedFeaturesforMicrosoftBotFramework
 [buildingcomputervision]: https://azure.github.io/learnAnalytics-Buildingacomputervisionapplicationusingcustomvisionservice
-[amlforai]: https://azure.github.io/learnAnalytics-UsingAzureMachineLearningforAIWorkloads
-[customcomputervisionwithaml]: https://azure.github.io/LearnAI-CustomComputerVisionwithAML/
-[customtextanalyticswithaml]: https://azure.github.io/LearnAI-CustomTextAnalyticsWithAML/
-[customtimeseriesforcastingwithaml]: https://azure.github.io/LearnAI-CustomTimeSeriesForecastingWithAML/
 [designingandarchitectingintelligentagents]: https://azure.github.io/LearnAI-DesigningandArchitectingIntelligentAgents/
-[aioniaas]: https://azure.github.io/LearnAI-AIonIaaS/
 [buildinganenterprisecognitivesearchsolution]: https://azure.github.io/LearnAI-Cognitive-Search/
 [ai-lp-home]: https://azure.microsoft.com/en-us/training/learning-paths/azure-ai-developer/
 [ai-lp-gettingstarted]: https://learnanalytics.microsoft.com/learningpaths/developing-ai-applications-getting-started
