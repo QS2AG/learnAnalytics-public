@@ -21,12 +21,12 @@ If you want to learn more about other tools, please see:
 - [Spark with HDInsight - Enterprise Ready Machine Learning and Interactive Data Analysis at Scale](https://github.com/Azure/learnAnalytics-SparkML)
 - [Using Azure Data Lake Analytics and Azure Data Lake Store in Advanced Analytics Projects](https://github.com/Azure/LearnAnalytics-UsingADLAandADLSinAdvancedAnalyticsProjects)
 - [Doing Machine Learning with Azure ML Studio](https://github.com/Azure/LearnAnalytics-DoingMachineLearningwithAzureMLStudio)
-- [Using Azure Machine Learning for AI Workloads][amlforai]
-- [Artificial Intelligence on IaaS++][aioniaas]
-- [Building Custom Computer Vision with Azure Machine Learning][customcomputervisionwithaml]
-- [Building Custom Text Analytics solutions using Azure Machine Learning][customtextanalyticswithaml]
-- [Building Custom Forecasting Applications using Azure Machine Learning][customtimeseriesforcastingwithaml]
-- [Bootcamp: Developing and Operationalizing Models using Azure Machine Learning][probootcamp]
+- [Using Azure Machine Learning for AI Workloads](https://azure.github.io/learnAnalytics-UsingAzureMachineLearningforAIWorkloads)
+- [Artificial Intelligence on IaaS++](https://azure.github.io/LearnAI-AIonIaaS/)
+- [Building Custom Computer Vision with Azure Machine Learning](https://azure.github.io/LearnAI-CustomComputerVisionwithAML/)
+- [Building Custom Text Analytics solutions using Azure Machine Learning](https://azure.github.io/LearnAI-CustomTextAnalyticsWithAML/)
+- [Building Custom Forecasting Applications using Azure Machine Learning](https://azure.github.io/LearnAI-CustomTimeSeriesForecastingWithAML/)
+- [Bootcamp: Developing and Operationalizing Models using Azure Machine Learning](https://aka.ms/learnai-proaidevbootcamp)
 
 ## Microsoft R and SQL Server ML Services
 
