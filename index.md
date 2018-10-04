@@ -10,17 +10,10 @@ a single place where you can go to navigate the materials that we develop.
 # AI-oriented materials
 
 - [Bootcamp: Developing applications using Cognitive Services, Azure Bot Services, and Azure Search][emergingbootcamp]
-- [Bootcamp: Developing and Operationalizing Models using Azure Machine Learning][probootcamp]
 - [Logging and Testing with Azure Bot Service][advancedbot]
 - [Building Computer Vision Application Leveraging Custom Vision Service][buildingcomputervision]
-- [Using Azure Machine Learning for AI Workloads][amlforai]
-- [Artificial Intelligence on IaaS++][aioniaas]
-- [Building Custom Computer Vision with Azure Machine Learning][customcomputervisionwithaml]
-- [Building Custom Text Analytics solutions using Azure Machine Learning][customtextanalyticswithaml]
-- [Building Custom Forecasting Applications using Azure Machine Learning][customtimeseriesforcastingwithaml]
 - [Designing and Architecting Intelligent Agents][designingandarchitectingintelligentagents]
 - [Building an Enterprise Cognitive Search Solution][buildinganenterprisecognitivesearchsolution]
-
 
 # AI learning paths
 
@@ -28,7 +21,6 @@ In addition to the courses above, there are [several learning paths][ai-lp-home]
 
 - [Getting Started with AI and Cognitive Systems][ai-lp-gettingstarted]
 - [Creating Artificial Intelligence applications with Natural Language Processing - With Cognitive Services API's][ai-lp-nlp]
-- [Building Deep-Learning Solutions with Cognitive Toolkit][ai-lp-deeplearning]
 
 # Older materials
 
