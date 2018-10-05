@@ -24,6 +24,7 @@ In addition to the courses above, there are [several learning paths][ai-lp-home]
 
 # Older materials
 
+Several courses have been deprecated due to recent product updates, including the LearnAI bootcamp for Professional AI Developers. The deprecated content is still available in this section though it will not be maintained.
 If you're looking for earlier materials focused on data science, Business Analytics, Microsoft R Server, and Certification, please see [here][older_learnai_materials].
 
 *Disclaimer*
