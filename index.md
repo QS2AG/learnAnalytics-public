@@ -9,7 +9,7 @@ a single place where you can go to navigate the materials that we develop.
 
 # AI-oriented materials
 
-- [Bootcamp: Developing applications using Cognitive Services, Azure Bot Services, and Azure Search][emergingbootcamp]
+- [Azure Cognitive Services Bootcamp: Developing Applications with Cognitive Services, Azure Bot Service, and Azure Search][emergingbootcamp]
 - [Designing and Architecting Intelligent Agents][designingandarchitectingintelligentagents]
 - [Building an Enterprise Cognitive Search Solution][buildinganenterprisecognitivesearchsolution]
 
