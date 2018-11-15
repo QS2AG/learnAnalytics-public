@@ -2,7 +2,7 @@ title: Learn Analytics Materials
 description: Microsoft learning materials for AI development.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
