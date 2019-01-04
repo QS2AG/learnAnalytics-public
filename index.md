@@ -11,7 +11,6 @@ a single place where you can go to navigate the materials that we develop.
 
 - [Azure Cognitive Services Bootcamp: Developing Applications with Cognitive Services, Azure Bot Service, and Azure Search][emergingbootcamp]
 - [Designing and Architecting Intelligent Agents][designingandarchitectingintelligentagents]
-- [Building an Enterprise Cognitive Search Solution][buildinganenterprisecognitivesearchsolution]
 - [Knowledge Mining Bootcamp](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/)
 - [Anomaly Detection and Predictive Maintenance](https://azure.github.io/LearnAI-ADPM/)
 
