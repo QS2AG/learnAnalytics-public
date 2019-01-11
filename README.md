@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # LearnAI Materials (formerly Learn Analytics)
 
 This site is a map of learning content produced by and curated by the LearnAI team in Microsoft Engineering. We are currently focused on building out materials to help developers build AI-oriented applications on Azure. The goal of this page is to provide
@@ -39,5 +35,5 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 [ai-lp-gettingstarted]: https://learnanalytics.microsoft.com/learningpaths/developing-ai-applications-getting-started
 [ai-lp-nlp]: https://learnanalytics.microsoft.com/learningpaths/developing-custom-ai-applications
 [ai-lp-deeplearning]: https://learnanalytics.microsoft.com/learningpaths/developing-advanced-ai-applications
-[older_learnai_materials]: learnanalytics_materials.md
+[older_learnai_materials]: https://github.com/Azure/learnAnalytics-public/blob/gh-pages/learnanalytics_materials.md
 
