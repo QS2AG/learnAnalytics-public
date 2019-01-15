@@ -39,6 +39,8 @@ An introduction to open source R is available [here](https://notebooks.azure.com
 - [Microsoft R Server with Spark on HDInsights](https://github.com/Azure/LearnAnalytics-mrs-spark)
 - [Microsoft R Server for Data Science (with Spark)](https://github.com/Azure/LearnAnalytics-mr4ds-spark)
 
+
+
 ## Certification
 
 If you are an aspirant learning to gain skills around data science or big data, you can get more information from
