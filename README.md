@@ -10,13 +10,6 @@ a single place where you can go to navigate the materials that we develop.
 - [Knowledge Mining Bootcamp](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/)
 - [Anomaly Detection and Predictive Maintenance](https://azure.github.io/LearnAI-ADPM/)
 
-# AI learning paths
-
-In addition to the courses above, there are [several learning paths][ai-lp-home] targeted towards developers interested in AI. 
-
-- [Getting Started with AI and Cognitive Systems][ai-lp-gettingstarted]
-- [Creating Artificial Intelligence applications with Natural Language Processing - With Cognitive Services API's][ai-lp-nlp]
-
 # Older materials
 
 Several courses have been deprecated due to recent product updates, including the LearnAI bootcamp for Professional AI Developers. The deprecated content is still available in this section though it will not be maintained.
