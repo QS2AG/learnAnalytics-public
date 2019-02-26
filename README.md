@@ -20,7 +20,7 @@ If you're looking for earlier materials focused on data science, Business Analyt
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-[emergingbootcamp]: https://aka.ms/learnai-emergingaidevbootcamp
+[emergingbootcamp]: https://github.com/Azure/LearnAI-Bootcamp
 [advancedbot]: https://azure.github.io/learnAnalytics-AdvancedFeaturesforMicrosoftBotFramework
 [buildingcomputervision]: https://azure.github.io/learnAnalytics-Buildingacomputervisionapplicationusingcustomvisionservice
 [designingandarchitectingintelligentagents]: https://azure.github.io/LearnAI-DesigningandArchitectingIntelligentAgents/
