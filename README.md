@@ -1,20 +1,26 @@
-# LearnAI Materials (formerly Learn Analytics)
+# LearnAI Materials 
 
-This site is a map of learning content produced by and curated by the LearnAI team in Microsoft Engineering. We are currently focused on building out materials to help developers build AI-oriented applications on Azure. The goal of this page is to provide
-a single place where you can go to navigate the materials that we develop. 
+Microsoft Engineering's LearnAI team creates deep, technical content (3-400 level) that enables developers and data scientists to build end-to-end solutions using the Azure AI Platform. This site is a map of the AI learning content for learning and redelivery purposes. This page is your single source to navigate the materials that we develop. 
 
 # AI-oriented materials
 
-- [Azure Cognitive Services Bootcamp: Developing Applications with Cognitive Services, Azure Bot Service, and Azure Search][emergingbootcamp]
-- [Designing and Architecting Intelligent Agents][designingandarchitectingintelligentagents]
-- [Knowledge Mining Bootcamp](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/)
-- [Anomaly Detection and Predictive Maintenance](https://azure.github.io/LearnAI-ADPM)
-- [ML with Azure Databricks and Azure Machine Learning (AML) service](https://azure.github.io/LearnAI_Azure_ML/)
+- Cognitive Services
+  - [Azure Cognitive Services Bootcamp: Developing Applications with Cognitive Services, Azure Bot Service, and Azure Search][emergingbootcamp]
+  - [Designing and Architecting Intelligent Agents][designingandarchitectingintelligentagents]
+  
+- Knowledge Mining
+  - [Knowledge Mining Bootcamp](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/)
+  - [Apps & Agents / Knowledge Mining "Airlift"](https://github.com/Azure/LearnAI-Airlift)
+  
+- Machine Learning
+  - [Anomaly Detection and Predictive Maintenance - Deprioritized](https://azure.github.io/LearnAI-ADPM)
+  - [ML with Azure Databricks and Azure Machine Learning (AML) service](https://azure.github.io/LearnAI_Azure_ML/)
 
 # Older materials
 
-Several courses have been deprecated due to recent product updates, including the LearnAI bootcamp for Professional AI Developers. The deprecated content is still available in this section though it will not be maintained.
-If you're looking for earlier materials focused on data science, Business Analytics, Microsoft R Server, and Certification, please see [here][older_learnai_materials].
+As products and features change, some courses are no longer maintained and deprecated, e.g., the LearnAI Bootcamp for Professional AI Developers and older advanced analytics courses. These courses are still available for viewing but they are not maintained.
+
+If you're looking for these earlier materials (topics include data science, business analytics, Microsoft R Server, and certification), please go [here][older_learnai_materials].
 
 *Disclaimer*
 
