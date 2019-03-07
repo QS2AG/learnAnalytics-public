@@ -1,6 +1,6 @@
 # LearnAI Materials 
 
-Microsoft Engineering's LearnAI team creates deep, technical content (3-400 level) that enables developers and data scientists to build end-to-end solutions using the Azure AI Platform. This site is a map of the AI learning content for learning and redelivery purposes. This page is your single source to navigate the materials that we develop. 
+Microsoft Engineering's LearnAI team creates deep, technical content (3-400 level) that enables developers and data scientists to build end-to-end solutions using the Azure AI Platform. This site is a map of the AI learning content for learning and redelivery purposes. This page is your single source to navigate the materials that we develop. Questions? [learnAI@microsoft.com] (mailto:learnAI@microsoft.com).
 
 # AI-oriented materials
 
@@ -14,7 +14,7 @@ Microsoft Engineering's LearnAI team creates deep, technical content (3-400 leve
   
 - Machine Learning
   - [Anomaly Detection and Predictive Maintenance - Deprioritized](https://azure.github.io/LearnAI-ADPM)
-  - [ML with Azure Databricks and Azure Machine Learning (AML) service](https://azure.github.io/LearnAI_Azure_ML/)
+  - [ML with Azure Databricks and Azure Machine Learning (AML) service - "Airlift" and other formats](https://azure.github.io/LearnAI_Azure_ML/)
 
 # Older materials
 
