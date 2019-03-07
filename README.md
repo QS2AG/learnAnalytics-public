@@ -9,7 +9,7 @@ a single place where you can go to navigate the materials that we develop.
 - [Designing and Architecting Intelligent Agents][designingandarchitectingintelligentagents]
 - [Knowledge Mining Bootcamp](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/)
 - [Anomaly Detection and Predictive Maintenance](https://github.com/Azure/LearnAI-ADPM)
-- [AI Airlift](https://azure.github.io/LearnAI-CustomAI-Airlift/)
+- [AI Airlift](https://azure.github.io/LearnAI_Azure_ML/)
 
 # Older materials
 
