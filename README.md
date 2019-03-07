@@ -8,8 +8,8 @@ a single place where you can go to navigate the materials that we develop.
 - [Azure Cognitive Services Bootcamp: Developing Applications with Cognitive Services, Azure Bot Service, and Azure Search][emergingbootcamp]
 - [Designing and Architecting Intelligent Agents][designingandarchitectingintelligentagents]
 - [Knowledge Mining Bootcamp](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/)
-- [Anomaly Detection and Predictive Maintenance](https://github.com/Azure/LearnAI-ADPM)
-- [AI Airlift](https://azure.github.io/LearnAI_Azure_ML/)
+- [Anomaly Detection and Predictive Maintenance](https://azure.github.io/LearnAI-ADPM)
+- [ML with Azure Databricks and Azure Machine Learning (AML) service](https://azure.github.io/LearnAI_Azure_ML/)
 
 # Older materials
 
