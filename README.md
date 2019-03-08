@@ -4,7 +4,7 @@ Microsoft Engineering's LearnAI team creates deep, technical content (3-400 leve
 
 # AI-oriented materials
 
-- Cognitive Services
+- Apps & Agents
   - [Azure Cognitive Services Bootcamp: Developing Applications with Cognitive Services, Azure Bot Service, and Azure Search][emergingbootcamp]
   - [Designing and Architecting Intelligent Agents][designingandarchitectingintelligentagents]
   
