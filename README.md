@@ -13,7 +13,6 @@ Microsoft Engineering's LearnAI team creates deep, technical content (3-400 leve
   
 - Machine Learning
   - [ML with Azure Databricks and Azure Machine Learning (AML) service - "Airlift" and other formats](https://azure.github.io/LearnAI_Azure_ML/)
-  - Deprioritized: [Anomaly Detection and Predictive Maintenance](https://azure.github.io/LearnAI-ADPM)
 
 # Older materials
 
