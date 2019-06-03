@@ -23,6 +23,8 @@ If you want to learn more about other tools, please see:
 - [Doing Machine Learning with Azure ML Studio](https://github.com/Azure/LearnAnalytics-DoingMachineLearningwithAzureMLStudio)
 - [Using Azure Machine Learning for AI Workloads](https://azure.github.io/learnAnalytics-UsingAzureMachineLearningforAIWorkloads)
 - [Bootcamp: Developing and Operationalizing Models using Azure Machine Learning](https://aka.ms/learnai-proaidevbootcamp)
+- [Designing and Architecting Intelligent Agents][https://azure.github.io/LearnAI-DesigningandArchitectingIntelligentAgents/]
+
 
 ## Microsoft R and SQL Server ML Services
 
