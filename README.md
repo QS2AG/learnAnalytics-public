@@ -1,6 +1,6 @@
 # LearnAI Materials 
 
-Microsoft Engineering's LearnAI team creates deep, technical content (3-400 level) that enables developers and data scientists to build end-to-end solutions using the Azure AI Platform. This site is a map of the AI learning content for learning and redelivery purposes. This page is your single source to navigate the materials that we develop. Questions? [learnAI@microsoft.com](mailto:learnAI@microsoft.com).
+Microsoft Engineering's LearnAI team creates deep, technical content (3-400 level) that enables developers and data scientists to build end-to-end solutions using the Azure AI Platform. This site is a map of the AI learning content for learning and redelivery purposes. This page is your single source to navigate the materials that are developed. Questions? [learnAI@microsoft.com](mailto:learnAI@microsoft.com).
 
 # AI-oriented materials
 
@@ -16,7 +16,7 @@ Microsoft Engineering's LearnAI team creates deep, technical content (3-400 leve
 
 # Older materials
 
-As products and features change, some courses are no longer maintained and deprecated, e.g., the LearnAI Bootcamp for Professional AI Developers and older advanced analytics courses. These courses are still available for viewing but they are not maintained.
+As products and features change, some courses are no longer maintained and deprecated. These courses are still available for viewing but they are not maintained.
 
 If you're looking for these earlier materials (topics include data science, business analytics, Microsoft R Server, and certification), please go [here][older_learnai_materials].
 
