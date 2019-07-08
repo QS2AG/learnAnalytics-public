@@ -1,6 +1,6 @@
 # LearnAI Materials 
 
-Microsoft AI Engineering's team has created deep, technical content (3-400 level) that enables developers and data scientists to build end-to-end solutions using the Azure AI Platform. This site is a map of the AI learning content for learning and redelivery purposes.  All the content is community supported so please feel free to contribute your enhancements.
+Microsoft's AI Engineering team has created deep, technical content (3-400 level) that enables developers and data scientists to build end-to-end solutions using the Azure AI Platform. This site is a map of the AI learning content for learning and redelivery purposes.  All the content is community supported so please feel free to contribute your enhancements.
 
 Questions? [learnAI@microsoft.com](mailto:learnAI@microsoft.com).
 
