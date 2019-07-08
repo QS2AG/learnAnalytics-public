@@ -4,7 +4,7 @@ The following is a collection of older materials that were developed to teach ho
 
 **Use at your own risk:** these courses are not supported. Product names may be outdated and labs no longer working. That said, if you like the structure, please feel free to submit updates or clone and make your own changes. Questions around specific products should be found by looking at [docs.microsoft.com/azure](https://docs.microsoft.azure).
 
-## Learning AI
+## Learning AI - OLD materials
 
 <!-- No longer supported
 - [Building Solutions with Microsoft Business Analytics and AI](https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite)
