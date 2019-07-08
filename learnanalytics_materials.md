@@ -1,29 +1,29 @@
----
-layout: default
----
+# Older materials for learning AI
 
-# LearnAnalytics materials
+The following is a collection of older materials that were developed to teach how to build end-to-end solutions on Microsoft's AI Platform products and services. 
 
-Here is the collection of materials around Business analytics and Microsoft R Server. The links below are broken into several sections:
+**Use at your own risk:** these courses are not supported. Product names may be outdated and labs no longer working. That said, if you like the structure, please feel free to submit updates or clone and make your own changes. Questions around specific products should be found by looking at [docs.microsoft.com/azure](https://docs.microsoft.azure).
 
-- *Microsoft Business Analytics and AI (BA+AI)*: Provides links to materials relevant to a variety of products associated Business Analytics and AI (BA+AI).
-- *Microsoft R and SQL Server ML Services*: Provides links to materials that are most relevant to Microsoft R and SQL Server ML Services
+## Learning AI
 
-## Microsoft Business Analytics and AI
-
-If you want to learn more about other tools, please see:
-
+<!-- No longer supported
 - [Building Solutions with Microsoft Business Analytics and AI](https://github.com/Azure/LearnAnalytics-Building-Solutions-with-the-Cortana-Intelligence-Suite)
 - [Developing and Deploying Intelligent Chat Bots](https://github.com/Azure/bot-education)
 - [HDInsight for The Hadoop Hero: Administering, Configuring and Securing HDInsight Clusters](https://github.com/Azure/learnAnalytics-HDI-Hero)
 - [Azure SQL Data Warehouse](https://github.com/Azure/LearnAnalytics-sqldwintro-instructorled)
 - [Spark with HDInsight - Enterprise Ready Machine Learning and Interactive Data Analysis at Scale](https://github.com/Azure/learnAnalytics-SparkML)
 - [Using Azure Data Lake Analytics and Azure Data Lake Store in Advanced Analytics Projects](https://github.com/Azure/LearnAnalytics-UsingADLAandADLSinAdvancedAnalyticsProjects)
+-->
 - [Doing Machine Learning with Azure ML Studio](https://github.com/Azure/LearnAnalytics-DoingMachineLearningwithAzureMLStudio)
 - [Using Azure Machine Learning for AI Workloads](https://azure.github.io/learnAnalytics-UsingAzureMachineLearningforAIWorkloads)
-- [Bootcamp: Developing and Operationalizing Models using Azure Machine Learning](https://aka.ms/learnai-proaidevbootcamp)
 - [Designing and Architecting Intelligent Agents][https://azure.github.io/LearnAI-DesigningandArchitectingIntelligentAgents/]
+<!-- Following features ML Workbench
+- [Bootcamp: Developing and Operationalizing Models using Azure Machine Learning](https://aka.ms/learnai-proaidevbootcamp)
+-->
 
+
+
+<!-- Removing because all are two years old or more
 
 ## Microsoft R and SQL Server ML Services
 
@@ -39,7 +39,7 @@ An introduction to open source R is available [here](https://notebooks.azure.com
 - [Microsoft R for Data Science](https://azure.github.io/LearnAnalytics-mr4ds/)
 - [Microsoft R Server with Spark on HDInsights](https://github.com/Azure/LearnAnalytics-mrs-spark)
 - [Microsoft R Server for Data Science (with Spark)](https://github.com/Azure/LearnAnalytics-mr4ds-spark)
-
+-->
 #
 
 
