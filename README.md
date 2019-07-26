@@ -14,7 +14,7 @@ Questions? [learnAI@microsoft.com](mailto:learnAI@microsoft.com).
   - [Apps & Agents / Knowledge Mining "Airlift"](https://github.com/Azure/LearnAI-Airlift)
   
 - Machine Learning
-  - [ML with Azure Databricks and Azure Machine Learning (AML) service - "Airlift" and other formats](https://azure.github.io/LearnAI_Azure_ML/)
+  - [ML with Azure Databricks and Azure Machine Learning (AML) service - "Airlift" and other formats](https://azure.github.io/ACE_Azure_ML/)
 
 # Older materials
 
